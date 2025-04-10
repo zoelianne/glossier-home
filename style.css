@@ -11,7 +11,7 @@ body {
     background-image: url('heroimage.png');
     background-size: cover;
     background-repeat: no-repeat;
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .promo-bar {
@@ -66,18 +66,21 @@ body {
     margin-left: 40px;
     margin-top: 60px;
     padding-left: 15px;
+    padding-right: 10px;
     padding-top: 20px;
     background-color: white;
     color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .hero-content-subtitle {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 11px;
 }
 
 .hero-content-title {
-
+    font-size: 18px;
 }
 
-
+.hero-content-copy {
+    font-size: 13px;
+}
